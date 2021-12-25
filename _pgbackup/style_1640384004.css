@@ -1,0 +1,3 @@
+.titleValue {
+    @include font-size(4rem);
+}

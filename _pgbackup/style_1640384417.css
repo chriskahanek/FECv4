@@ -1,0 +1,7 @@
+.valueTitle {
+    @include font-size(20rem);
+}
+
+.valueBodyText {
+    @include font-size(4rem);
+}

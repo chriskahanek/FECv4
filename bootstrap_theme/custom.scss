@@ -1,0 +1,80 @@
+/* Bootstrap theme customized with Pinegrow Web Editor */
+/* Vars go before the @import */
+/* Click on the Uncomment icon in the Style panel to uncomment and customize the variables: */
+// $primary: #007bff;
+// $secondary: #6c757d;
+// $success: #28a745;
+// $info: #17a2b8;
+// $warning: #ffc107;
+// $danger: #dc3545;
+// $light: #f8f9fa;
+// $dark: #343a40;
+// $body-bg: #ffffff;
+// $body-color: #212529;
+/* Import web fonts - Must come before any CSS rules. Refresh the Page view after making changes to import statements. */
+// @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700&family=Playfair+Display:wght@400;700;900&display=swap');
+// $font-family-sans-serif: 'Lato', sans-serif;
+// $headings-font-family: 'Playfair Display', serif;
+@import "bootstrap/bootstrap";
+
+/* Custom CSS rules come here */
+.valueHeader {
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-size: calc(0.9rem);
+}
+
+@media (min-width: 768px) {
+    .valueHeader {
+        font-size: 1rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .valueHeader {
+        font-size: 1.1rem;
+    }
+}
+
+.valueTitle {
+    text-shadow: 2px 2px #00000066;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    font-size: calc(1.5rem + 1.5vw);
+}
+
+@media (min-width: 768px) {
+    .valueTitle {
+        font-size: 4rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .valueTitle {
+        text-shadow: 5px 5px #00000066;
+        font-size: 5rem;
+    }
+}
+
+.valueBody {
+    font-size: calc(0.82rem);
+}
+
+@media (min-width: 768px) {
+    .valueBody {
+        font-weight: 100;
+        font-size: 1.3rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .valueBody {
+        font-size: 1.45rem;
+    }
+}
+
+.valueEmphasis {
+    font-weight: bold;
+    color: $success;
+    text-shadow: 2px 2px #00000066;
+}
