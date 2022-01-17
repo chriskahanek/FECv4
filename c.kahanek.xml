@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl" ?>
+<employee>
+  <vcard>
+    <firstName>Christopher</firstName>
+    <middleName>Benno</middleName>
+    <lastName>Kahanek</lastName>
+    <credentials>PE, SE, AIA, CMEngNZ</credentials>
+    <organization>Forensic Engineering Company, LLC</organization>
+    <title>Vice President</title>
+    <note>Notes about CK</note>
+    <cellPhone>1.213.810.2266</cellPhone>
+    <workPhone>1.602.837.4945</workPhone>
+  </vcard>
+  <websiteBio>
+    <paragraph>Chris Kahanek has more than 17 years of international experience in design and forensic consulting. His dual licensure allows him to provide a wide range of services including seismic evaluation and retrofit design; building envelope evaluation; due diligence; seismic risk evaluation; balcony inspection; code compliance consulting; property claims; design defect litigation support; and trial testimony.</paragraph>
+    <paragraph>Chris is currently developing forensic investigation process solutions and web-based deliverables that utilize the Microsoft Common Data Model and Power Platform.</paragraph>
+  </websiteBio>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>AZ PE</displayName>
+    <jurisdiction>Arizona</jurisdiction>
+    <expirationDate>2024-03-31</expirationDate>
+    <Number>65743</Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>LA PE</displayName>
+    <jurisdiction>Louisiana</jurisdiction>
+    <expirationDate>2022-03-31</expirationDate>
+    <Number>35709</Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>UT PE</displayName>
+    <jurisdiction>Utah</jurisdiction>
+    <expirationDate>2023-03-31</expirationDate>
+    <Number>11881362-2203</Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>HI PE</displayName>
+    <jurisdiction>Hawaii</jurisdiction>
+    <expirationDate>2022-04-30</expirationDate>
+    <Number>PE-18124</Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>NV PE</displayName>
+    <jurisdiction>Nevada</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>OR PE</displayName>
+    <jurisdiction>Oregon</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>ID PE</displayName>
+    <jurisdiction>Idaho</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>CO PE</displayName>
+    <jurisdiction>Colorado</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>NM PE</displayName>
+    <jurisdiction>New Mexico</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>MS PE</displayName>
+    <jurisdiction>Mississippi</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Professional Engineer</type>
+    <displayName>CA PE</displayName>
+    <jurisdiction>California</jurisdiction>
+    <expirationDate>2022-06-30</expirationDate>
+    <Number>C70600</Number>
+    <note>first PE license</note>
+  </license>
+  <license>
+    <type>Structural Engineer</type>
+    <displayName>CA SE</displayName>
+    <jurisdiction>California</jurisdiction>
+    <expirationDate>2022-06-30</expirationDate>
+    <Number>S5591</Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Architect</type>
+    <displayName>TX Architect</displayName>
+    <jurisdiction>Texas</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Architect</type>
+    <displayName>FL Architect</displayName>
+    <jurisdiction>Florida</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Architect</type>
+    <displayName>NC Architect</displayName>
+    <jurisdiction>North Carolina</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Architect</type>
+    <displayName>AZ Architect</displayName>
+    <jurisdiction>Arizona</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <license>
+    <type>Structural Engineer</type>
+    <displayName>New Zealand Chartered Engineer</displayName>
+    <jurisdiction>New Zealand</jurisdiction>
+    <expirationDate></expirationDate>
+    <Number></Number>
+    <note></note>
+  </license>
+  <membership>
+    <displayName>American Institute of Architects</displayName>
+    <acronym>AIA</acronym>
+  </membership>
+  <membership>
+    <displayName>National Council of Examiners for Engineering and Surveying</displayName>
+    <acronym>NCEES</acronym>
+  </membership>
+  <membership>
+    <displayName>National Council of Architectural Registration Boards</displayName>
+    <acronym>NCARB</acronym>
+  </membership>
+  <membership>
+    <displayName>Institution of Professional Engineers New Zealand</displayName>
+    <acronym>IPENZ</acronym>
+  </membership>
+</employee>
